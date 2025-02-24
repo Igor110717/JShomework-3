@@ -31,3 +31,4 @@
 
 // console.log(countProps({ mail: 'poly@mail.com', isOnline: true, score: 500 })); // 3
 
+// Задание 3
